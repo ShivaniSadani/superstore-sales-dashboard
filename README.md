@@ -1,14 +1,14 @@
 # 🛒 Superstore Sales Dashboard
 
-An interactive Tableau dashboard visualizing sales performance across categories, regions, and customer segments using Superstore data.
+An interactive Tableau dashboard focusing on customer behavior and sales trends from Superstore data.
 
 ---
 
 ## 📊 Key Insights
 - Sales, Profit, and Order Volume
-- Top/Bottom Performing Categories
-- Regional and Segment-wise Trends
-- Monthly Sales & Profitability Analysis
+- Customer Segment and Category Analysis
+- Top Customers by Sales and Profit
+- Monthly Trends in Customer Purchases
 
 ---
 
@@ -18,13 +18,13 @@ An interactive Tableau dashboard visualizing sales performance across categories
 ---
 
 ## 🖼️ Preview  
-![Dashboard Preview](dashboard_preview.png.png)  
-
+![Dashboard Preview](dashboard_preview.png)  
+*Upload a screenshot named `dashboard_preview.png` to display this preview.*
 
 ---
 
 ## 📁 Files
-- `Superstore_Sales_Dashboard.twbx` – Tableau Packaged Workbook
+- `Superstore_Sales_Dashboard.twbx` – Tableau Packaged Workbook (dashboard + data)
 
 ---
 
@@ -36,10 +36,10 @@ An interactive Tableau dashboard visualizing sales performance across categories
 
 ## 🚀 How to Use
 1. Download the `.twbx` file
-2. Open in Tableau Public or Desktop
-3. Explore and interact with the dashboard
+2. Open it in Tableau Public or Desktop
+3. Explore the customer-focused insights interactively
 
 ---
 
 ## 📌 Purpose
-Created to demonstrate retail analytics and interactive dashboard design using Tableau. Ideal for business insights, data storytelling, and portfolio showcasing.
+Created to showcase customer-focused sales analytics and dashboard storytelling using Tableau. Ideal for understanding buying patterns and segment behavior.
