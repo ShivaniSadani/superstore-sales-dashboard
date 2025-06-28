@@ -19,7 +19,6 @@ An interactive Tableau dashboard focusing on customer behavior and sales trends 
 
 ## 🖼️ Preview  
 ![Dashboard Preview](dashboard_preview.png)  
-*Upload a screenshot named `dashboard_preview.png` to display this preview.*
 
 ---
 
