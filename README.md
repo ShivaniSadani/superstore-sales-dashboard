@@ -18,7 +18,7 @@ An interactive Tableau dashboard visualizing sales performance across categories
 ---
 
 ## 🖼️ Preview  
-![Dashboard Preview](dashboard_preview.png)  
+![Dashboard Preview](dashboard_preview.png.png)  
 
 
 ---
